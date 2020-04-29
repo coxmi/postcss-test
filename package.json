@@ -1,0 +1,12 @@
+{
+  "name": "pcss-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "NODE_ENV=production rollup -c"
+  },
+  "devDependencies": {
+    "less": "^3.11.1",
+    "rollup": "^2.3.4"
+  }
+}
